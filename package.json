@@ -1,0 +1,32 @@
+{
+  "name": "sayed021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayedbs/webpack.git"
+  },
+  "keywords": [
+    "sayed021",
+    "webpack",
+    "webpack5",
+    "bundle",
+    "task",
+    "web"
+  ],
+  "author": "sayed021",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayedbs/webpack/issues"
+  },
+  "homepage": "https://github.com/sayedbs/webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
